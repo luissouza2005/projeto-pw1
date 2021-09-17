@@ -1,0 +1,62 @@
+html{
+background-image: url(../img/free-fire-la-casa-de-papel-3.jpg);
+background-size: cover;
+}
+
+.titulo{
+
+  background-color: #aaa;
+  padding: 20px;
+}
+
+.caixinha{
+
+    margin: 0 auto;
+    width: 950px;
+}
+
+.mochila{
+
+ background-color:#aaa;
+ border-color: #fff #aaa #fff #aaa;
+ border: 1px solid #000;
+ margin-top: 20 px;
+ padding: 10px;
+
+}
+
+
+
+.mochila img{
+
+    border: 1px solid #000;
+    float: left;
+    margin: 10px 10px o o;
+    padding: 4px;
+}
+
+.mochila a{
+   
+    color: darkblue;
+    font-weight: 300;
+     text-decoration: none;
+}
+  
+ .mochila a:hover{
+  
+    color: darkblue;
+    text-decoration: underline;
+ }
+ 
+ .mochila p{
+
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 16px;
+     text-align: justify;
+     line-height:1.5;
+ }
+ 
+ .clear{
+    clear: both;
+
+}  
